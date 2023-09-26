@@ -1,5 +1,5 @@
 // TodoState.js
-import React, { useReducer, useContext, useEffect } from "react";
+import React, { useReducer } from "react";
 import TodoReducer from "./TodoReducer";
 import TodoContext from "./TodoContext";
 
